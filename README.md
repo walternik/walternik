@@ -1,4 +1,4 @@
-Experienced System Engineer with a proven track record working in the information technology and services industry. Skilled in SCRUM, Continuous Integration, Backend and Full Stack development. I also proved to be an effective team worker, problem-solving and self-learner.
+Experienced System Engineer with a proven track record working in the information technology and services industry. Skilled in SCRUM, Continuous Integration, Backend and Full Stack development. Also proved to be an effective team worker, problem-solving and self-learner.
 
 <!---
 walternik/walternik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
